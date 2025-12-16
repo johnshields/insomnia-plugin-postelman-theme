@@ -1,0 +1,29 @@
+{
+  "name": "insomnia-plugin-postelman-theme",
+  "version": "1.0.0",
+  "main": "index.js",
+  "insomnia": {
+    "name": "postelman-theme",
+    "displayName": "Postelman",
+    "description": "A warm dark theme with washed black background and comfortable colors.",
+    "images": {
+      "icon": "logo.png",
+      "cover": "screenshot.png"
+    },
+    "publisher": {
+      "name": "John Shields"
+    },
+    "unlisted": false
+  },
+  "keywords": [
+    "theme",
+    "postelman",
+    "warm",
+    "dark",
+    "insomnia",
+    "insomnia-theme",
+    "insomnia-plugin"
+  ],
+  "dependencies": [],
+  "devDependencies": []
+}
