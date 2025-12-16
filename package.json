@@ -8,7 +8,7 @@
     "description": "A warm dark theme with washed black background and comfortable colors.",
     "images": {
       "icon": "logo.png",
-      "cover": "screenshot.png"
+      "cover": "img/screenshot.png"
     },
     "publisher": {
       "name": "John Shields"
