@@ -1,6 +1,6 @@
 {
   "name": "insomnia-plugin-postelman-theme",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "main": "index.js",
   "insomnia": {
     "name": "postelman-theme",

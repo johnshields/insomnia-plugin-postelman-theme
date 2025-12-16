@@ -1,8 +1,5 @@
 # Postelman Theme
 
-[![npm version](https://img.shields.io/npm/v/insomnia-plugin-postelman-theme.svg)](https://www.npmjs.com/package/insomnia-plugin-postelman-theme)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-
 A warm dark theme for Insomnia with a washed black background and comfortable warm colors.
 
 ![Postelman Theme Screenshot](https://github.com/johnshields/insomnia-plugin-postelman-theme/blob/main/img/screenshot.png?raw=true)
@@ -48,6 +45,7 @@ Then restart Insomnia and select **Postelman** from Preferences → Themes.
 
 Issues and pull requests are welcome! Feel free to suggest improvements or report bugs.
 
-## License
+---
 
-MIT © [John Shields](https://github.com/johnshields)
+[![npm version](https://img.shields.io/npm/v/insomnia-plugin-postelman-theme.svg)](https://www.npmjs.com/package/insomnia-plugin-postelman-theme)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
