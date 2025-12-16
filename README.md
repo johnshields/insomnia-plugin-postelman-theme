@@ -2,7 +2,7 @@
 
 A warm dark theme for Insomnia with a washed black background and comfortable warm colours.
 
-![Postelman Theme Screenshot](screenshot.png)
+![Postelman Theme Screenshot](https://github.com/user-attachments/assets/bca3b18f-2d5a-4553-bdf9-d053711f8381)
 
 ## Installation
 
