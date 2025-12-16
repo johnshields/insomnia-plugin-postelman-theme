@@ -5,7 +5,7 @@
 
 A warm dark theme for Insomnia with a washed black background and comfortable warm colors.
 
-![Postelman Theme Screenshot](https://raw.githubusercontent.com/johnshields/insomnia-plugin-postelman-theme/refs/heads/main/img/screenshot.png?token=GHSAT0AAAAAADQDTBU7REW4NMTBXCZMGG6U2KAXF3A)
+![Postelman Theme Screenshot](https://github.com/johnshields/insomnia-plugin-postelman-theme/blob/main/img/screenshot.png?raw=true)
 
 ## Installation
 
